@@ -1,0 +1,25 @@
+2 Jul 2019 3:28:56 GMT: Log 'EclipseCompiler.txt' opened: 2 Jul 2019 3:28:56 GMT with name E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\EclipseCompiler.txt
+12 Jul 2019 0:23:29 GMT: Log 'EclipseCompiler.txt' opened: 12 Jul 2019 0:23:29 GMT with name E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\EclipseCompiler.txt
+12 Jul 2019 0:39:03 GMT: diagnostics = javax.tools.DiagnosticCollector@a2b78d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12fe12c
+fileObjects = [E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java, E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\StackBasicExample.java, E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\BracketCheck.java]
+12 Jul 2019 0:39:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16e6840' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+12 Jul 2019 0:39:04 GMT: Compiler call returned
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@148f853
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 4 ColNo = 16 Msg = 'The value of the local variable input1 is not used'
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9dafb7
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 5 ColNo = 16 Msg = 'The value of the local variable input2 is not used'
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad5f97
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 6 ColNo = 16 Msg = 'The value of the local variable input3 is not used'
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23fe96
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 7 ColNo = 16 Msg = 'The value of the local variable input5 is not used'
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e3445d
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 9 ColNo = 16 Msg = 'The value of the local variable input6 is not used'
+12 Jul 2019 0:39:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ea5c1
+12 Jul 2019 0:39:04 GMT:  Kind = WARNING
+12 Jul 2019 0:39:04 GMT: Name = E:\CSE220\lab\18301211 _ Prioti Saha Tonny lab 07\Lab7ParenthesisCheck.java LineNo = 10 ColNo = 16 Msg = 'The value of the local variable input7 is not used'
